@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'OptiSec',
-  description: 'Ciberseguridad para PYMEs',
+  description: 'Ciberseguridad',
 }
 
 export default function RootLayout({ children }) {
